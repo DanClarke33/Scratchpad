@@ -21,3 +21,4 @@ obj
 StyleCop.Cache 
 nlog.xsd 
 .vs
+.testingignorechange
