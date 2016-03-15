@@ -1,1 +1,2 @@
 class Human < TimeTravel
+some more in human
