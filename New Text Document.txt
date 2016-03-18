@@ -1,8 +1,0 @@
-change 1
-change 3
-a change I added in the master file
-	change 2
-change 4
-end of change 1
-
-another change I added in the master file
