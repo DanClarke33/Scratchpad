@@ -1,8 +1,10 @@
-*.suo 
-*.user 
+*.suo
+*.user
 *.publish.xml 
 bin/
-obj/  
+obj/ 
+Debug/
+Release/
 *.o 
 *.lo 
 *.la 
@@ -21,3 +23,5 @@ obj/
 StyleCop.Cache 
 nlog.xsd 
 .vs
+packages/
+
