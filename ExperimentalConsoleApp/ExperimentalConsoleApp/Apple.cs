@@ -2,8 +2,9 @@
 {
     public class Apple
     {
-        public void DoX()
+        public bool IsEven(int value)
         {
+            return value % 2 == 0;
         }
     }
 }

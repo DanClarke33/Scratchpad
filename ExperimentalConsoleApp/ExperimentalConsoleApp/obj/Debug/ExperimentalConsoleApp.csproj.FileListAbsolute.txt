@@ -1,1 +1,6 @@
 C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\bin\Debug\ExperimentalConsoleApp.exe.config
+C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\bin\Debug\ExperimentalConsoleApp.exe
+C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\bin\Debug\ExperimentalConsoleApp.pdb
+C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\obj\Debug\ExperimentalConsoleApp.csprojResolveAssemblyReference.cache
+C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\obj\Debug\ExperimentalConsoleApp.exe
+C:\Workspace\GitScratchpad\ExperimentalConsoleApp\ExperimentalConsoleApp\obj\Debug\ExperimentalConsoleApp.pdb
